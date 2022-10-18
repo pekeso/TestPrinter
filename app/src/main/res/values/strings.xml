@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test Printer</string>
+    <string name="print">Imprimer</string>
+</resources>
